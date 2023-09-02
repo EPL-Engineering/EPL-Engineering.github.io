@@ -7,4 +7,4 @@ layout: page
 
 #### [List of hardware resources]({{ site.baseurl }}{% link hardware.markdown %})
 
-#### [List of software resources]()
+#### [List of software resources]({{ site.baseurl }}{% link software.markdown %})
